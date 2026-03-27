@@ -1,0 +1,1525 @@
+{
+  "content": [
+    {
+      "content_id": "con_001",
+      "title": "The Resilience reset",
+      "topic": "resilience",
+      "cluster": "self_mastery",
+      "description": "How high-performing teams and individuals use resilience differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_002",
+      "title": "Rethinking Resilience",
+      "topic": "resilience",
+      "cluster": "self_mastery",
+      "description": "A deep dive into the research behind resilience and three concrete techniques to put it into practice",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_003",
+      "title": "Why Emotional Regulation matters more than you think",
+      "topic": "emotional regulation",
+      "cluster": "self_mastery",
+      "description": "A practical exploration of emotional regulation in corporate environments with actionable steps you can take this week",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_004",
+      "title": "Rethinking Emotional Regulation",
+      "topic": "emotional regulation",
+      "cluster": "self_mastery",
+      "description": "The neuroscience behind emotional regulation explained in plain language with immediate practical takeaways",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_005",
+      "title": "Why your Emotional Regulation is holding you back",
+      "topic": "emotional regulation",
+      "cluster": "self_mastery",
+      "description": "Common mistakes people make with emotional regulation and the mindset shifts that lead to lasting change",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_006",
+      "title": "Beyond the basics of Mindfulness",
+      "topic": "mindfulness",
+      "cluster": "self_mastery",
+      "description": "An honest look at mindfulness \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_007",
+      "title": "Why your Mindfulness is holding you back",
+      "topic": "mindfulness",
+      "cluster": "self_mastery",
+      "description": "A structured approach to developing mindfulness as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_008",
+      "title": "Mindfulness \u2014 what no one tells you",
+      "topic": "mindfulness",
+      "cluster": "self_mastery",
+      "description": "Real stories from professionals who transformed their relationship with mindfulness and what they learned",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_009",
+      "title": "Mastering Self-Awareness in the workplace",
+      "topic": "self-awareness",
+      "cluster": "self_mastery",
+      "description": "How self-awareness shows up at work and why developing it changes the way you operate day to day",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_010",
+      "title": "How leaders use Self-Awareness",
+      "topic": "self-awareness",
+      "cluster": "self_mastery",
+      "description": "An honest look at self-awareness \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_011",
+      "title": "When Values Clarity gets hard",
+      "topic": "values clarity",
+      "cluster": "self_mastery",
+      "description": "A structured approach to developing values clarity as a skill rather than treating it as a fixed personality trait",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_012",
+      "title": "Unlocking Values Clarity",
+      "topic": "values clarity",
+      "cluster": "self_mastery",
+      "description": "Common mistakes people make with values clarity and the mindset shifts that lead to lasting change",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_013",
+      "title": "Why your Identity At Work is holding you back",
+      "topic": "identity at work",
+      "cluster": "self_mastery",
+      "description": "How identity at work shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_014",
+      "title": "Building Identity At Work from scratch",
+      "topic": "identity at work",
+      "cluster": "self_mastery",
+      "description": "An honest look at identity at work \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_015",
+      "title": "Mastering Imposter Syndrome in the workplace",
+      "topic": "imposter syndrome",
+      "cluster": "self_mastery",
+      "description": "An honest look at imposter syndrome \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_016",
+      "title": "Getting better at Imposter Syndrome",
+      "topic": "imposter syndrome",
+      "cluster": "self_mastery",
+      "description": "The fundamentals of imposter syndrome explained simply with examples drawn from everyday office scenarios",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_017",
+      "title": "Why your Stress Management is holding you back",
+      "topic": "stress management",
+      "cluster": "self_mastery",
+      "description": "The relationship between stress management and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_018",
+      "title": "The Stress Management habit",
+      "topic": "stress management",
+      "cluster": "self_mastery",
+      "description": "How high-performing teams and individuals use stress management differently \u2014 and what you can borrow from them",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_019",
+      "title": "What Stress Management really looks like",
+      "topic": "stress management",
+      "cluster": "self_mastery",
+      "description": "A structured approach to developing stress management as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_020",
+      "title": "Everyday Inner Critic \u2014 a practice",
+      "topic": "inner critic",
+      "cluster": "self_mastery",
+      "description": "The fundamentals of inner critic explained simply with examples drawn from everyday office scenarios",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_021",
+      "title": "Unlocking Inner Critic",
+      "topic": "inner critic",
+      "cluster": "self_mastery",
+      "description": "A practical exploration of inner critic in corporate environments with actionable steps you can take this week",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_022",
+      "title": "A practical guide to Self-Compassion",
+      "topic": "self-compassion",
+      "cluster": "self_mastery",
+      "description": "Real stories from professionals who transformed their relationship with self-compassion and what they learned",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_023",
+      "title": "Self-Compassion under pressure",
+      "topic": "self-compassion",
+      "cluster": "self_mastery",
+      "description": "How to apply self-compassion when it feels most difficult \u2014 under deadlines, in conflict, and when stakes are high",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_024",
+      "title": "Self-Compassion \u2014 what no one tells you",
+      "topic": "self-compassion",
+      "cluster": "self_mastery",
+      "description": "An honest look at self-compassion \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_025",
+      "title": "The Personal Boundaries advantage",
+      "topic": "personal boundaries",
+      "cluster": "self_mastery",
+      "description": "A self-assessment and guided reflection on where your personal boundaries is today and how to move it forward",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_026",
+      "title": "The truth about Personal Boundaries",
+      "topic": "personal boundaries",
+      "cluster": "self_mastery",
+      "description": "Real stories from professionals who transformed their relationship with personal boundaries and what they learned",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_027",
+      "title": "Personal Boundaries \u2014 a field guide",
+      "topic": "personal boundaries",
+      "cluster": "self_mastery",
+      "description": "How personal boundaries shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_028",
+      "title": "Emotional Intelligence under pressure",
+      "topic": "emotional intelligence",
+      "cluster": "self_mastery",
+      "description": "A deep dive into the research behind emotional intelligence and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_029",
+      "title": "Mastering Emotional Intelligence in the workplace",
+      "topic": "emotional intelligence",
+      "cluster": "self_mastery",
+      "description": "A structured approach to developing emotional intelligence as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_030",
+      "title": "Everyday Decision Making \u2014 a practice",
+      "topic": "decision making",
+      "cluster": "thinking_skills",
+      "description": "How high-performing teams and individuals use decision making differently \u2014 and what you can borrow from them",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_031",
+      "title": "Building Decision Making from scratch",
+      "topic": "decision making",
+      "cluster": "thinking_skills",
+      "description": "Common mistakes people make with decision making and the mindset shifts that lead to lasting change",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_032",
+      "title": "Small steps to better Critical Thinking",
+      "topic": "critical thinking",
+      "cluster": "thinking_skills",
+      "description": "A deep dive into the research behind critical thinking and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_033",
+      "title": "The Critical Thinking advantage",
+      "topic": "critical thinking",
+      "cluster": "thinking_skills",
+      "description": "The relationship between critical thinking and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_034",
+      "title": "Building Critical Thinking from scratch",
+      "topic": "critical thinking",
+      "cluster": "thinking_skills",
+      "description": "A deep dive into the research behind critical thinking and three concrete techniques to put it into practice",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_035",
+      "title": "Cognitive Bias \u2014 what no one tells you",
+      "topic": "cognitive bias",
+      "cluster": "thinking_skills",
+      "description": "The fundamentals of cognitive bias explained simply with examples drawn from everyday office scenarios",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_036",
+      "title": "Building Cognitive Bias from scratch",
+      "topic": "cognitive bias",
+      "cluster": "thinking_skills",
+      "description": "The relationship between cognitive bias and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_037",
+      "title": "The Problem Framing reset",
+      "topic": "problem framing",
+      "cluster": "thinking_skills",
+      "description": "How problem framing shows up at work and why developing it changes the way you operate day to day",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_038",
+      "title": "Rethinking Problem Framing",
+      "topic": "problem framing",
+      "cluster": "thinking_skills",
+      "description": "A practical exploration of problem framing in corporate environments with actionable steps you can take this week",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_039",
+      "title": "A practical guide to Problem Framing",
+      "topic": "problem framing",
+      "cluster": "thinking_skills",
+      "description": "How problem framing shows up at work and why developing it changes the way you operate day to day",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_040",
+      "title": "Creativity \u2014 what no one tells you",
+      "topic": "creativity",
+      "cluster": "thinking_skills",
+      "description": "Common mistakes people make with creativity and the mindset shifts that lead to lasting change",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_041",
+      "title": "How to use Creativity every day",
+      "topic": "creativity",
+      "cluster": "thinking_skills",
+      "description": "The neuroscience behind creativity explained in plain language with immediate practical takeaways",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_042",
+      "title": "Why your Systems Thinking is holding you back",
+      "topic": "systems thinking",
+      "cluster": "thinking_skills",
+      "description": "An honest look at systems thinking \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_043",
+      "title": "What Systems Thinking really looks like",
+      "topic": "systems thinking",
+      "cluster": "thinking_skills",
+      "description": "The relationship between systems thinking and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_044",
+      "title": "Rethinking Mental Models",
+      "topic": "mental models",
+      "cluster": "thinking_skills",
+      "description": "How mental models shows up at work and why developing it changes the way you operate day to day",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_045",
+      "title": "Beyond the basics of Mental Models",
+      "topic": "mental models",
+      "cluster": "thinking_skills",
+      "description": "The neuroscience behind mental models explained in plain language with immediate practical takeaways",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_046",
+      "title": "The First Principles Thinking reset",
+      "topic": "first principles thinking",
+      "cluster": "thinking_skills",
+      "description": "How first principles thinking shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_047",
+      "title": "A practical guide to First Principles Thinking",
+      "topic": "first principles thinking",
+      "cluster": "thinking_skills",
+      "description": "The relationship between first principles thinking and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_048",
+      "title": "Using Lateral Thinking to grow faster",
+      "topic": "lateral thinking",
+      "cluster": "thinking_skills",
+      "description": "Real stories from professionals who transformed their relationship with lateral thinking and what they learned",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_049",
+      "title": "Lateral Thinking \u2014 a field guide",
+      "topic": "lateral thinking",
+      "cluster": "thinking_skills",
+      "description": "Real stories from professionals who transformed their relationship with lateral thinking and what they learned",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_050",
+      "title": "Rethinking Analytical Thinking",
+      "topic": "analytical thinking",
+      "cluster": "thinking_skills",
+      "description": "A step-by-step framework for strengthening analytical thinking in your daily work without adding to your plate",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_051",
+      "title": "The science of Analytical Thinking",
+      "topic": "analytical thinking",
+      "cluster": "thinking_skills",
+      "description": "How analytical thinking shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_052",
+      "title": "The truth about Analytical Thinking",
+      "topic": "analytical thinking",
+      "cluster": "thinking_skills",
+      "description": "A structured approach to developing analytical thinking as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_053",
+      "title": "Everyday Risk Thinking \u2014 a practice",
+      "topic": "risk thinking",
+      "cluster": "thinking_skills",
+      "description": "Common mistakes people make with risk thinking and the mindset shifts that lead to lasting change",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_054",
+      "title": "Mastering Risk Thinking in the workplace",
+      "topic": "risk thinking",
+      "cluster": "thinking_skills",
+      "description": "How high-performing teams and individuals use risk thinking differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_055",
+      "title": "The science of Strategic Thinking",
+      "topic": "strategic thinking",
+      "cluster": "thinking_skills",
+      "description": "Real stories from professionals who transformed their relationship with strategic thinking and what they learned",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_056",
+      "title": "Small steps to better Strategic Thinking",
+      "topic": "strategic thinking",
+      "cluster": "thinking_skills",
+      "description": "A deep dive into the research behind strategic thinking and three concrete techniques to put it into practice",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_057",
+      "title": "The hidden side of Empathy",
+      "topic": "empathy",
+      "cluster": "relating",
+      "description": "The relationship between empathy and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_058",
+      "title": "Empathy in 5 minutes a day",
+      "topic": "empathy",
+      "cluster": "relating",
+      "description": "Understanding empathy at a deeper level so you can coach others through it as well as yourself",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_059",
+      "title": "A practical guide to Active Listening",
+      "topic": "active listening",
+      "cluster": "relating",
+      "description": "The relationship between active listening and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_060",
+      "title": "Small steps to better Active Listening",
+      "topic": "active listening",
+      "cluster": "relating",
+      "description": "How to apply active listening when it feels most difficult \u2014 under deadlines, in conflict, and when stakes are high",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_061",
+      "title": "Leading with Conflict Resolution",
+      "topic": "conflict resolution",
+      "cluster": "relating",
+      "description": "A practical exploration of conflict resolution in corporate environments with actionable steps you can take this week",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_062",
+      "title": "The Conflict Resolution reset",
+      "topic": "conflict resolution",
+      "cluster": "relating",
+      "description": "A structured approach to developing conflict resolution as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_063",
+      "title": "Conflict Resolution for busy professionals",
+      "topic": "conflict resolution",
+      "cluster": "relating",
+      "description": "A structured approach to developing conflict resolution as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_064",
+      "title": "Feedback Giving for busy professionals",
+      "topic": "feedback giving",
+      "cluster": "relating",
+      "description": "Real stories from professionals who transformed their relationship with feedback giving and what they learned",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_065",
+      "title": "The Feedback Giving advantage",
+      "topic": "feedback giving",
+      "cluster": "relating",
+      "description": "The fundamentals of feedback giving explained simply with examples drawn from everyday office scenarios",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_066",
+      "title": "Using Feedback Receiving to grow faster",
+      "topic": "feedback receiving",
+      "cluster": "relating",
+      "description": "The relationship between feedback receiving and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_067",
+      "title": "A practical guide to Feedback Receiving",
+      "topic": "feedback receiving",
+      "cluster": "relating",
+      "description": "Understanding feedback receiving at a deeper level so you can coach others through it as well as yourself",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_068",
+      "title": "How leaders use Feedback Receiving",
+      "topic": "feedback receiving",
+      "cluster": "relating",
+      "description": "How feedback receiving shows up at work and why developing it changes the way you operate day to day",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_069",
+      "title": "Leading with Influence",
+      "topic": "influence",
+      "cluster": "relating",
+      "description": "A self-assessment and guided reflection on where your influence is today and how to move it forward",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_070",
+      "title": "How leaders use Influence",
+      "topic": "influence",
+      "cluster": "relating",
+      "description": "A practical exploration of influence in corporate environments with actionable steps you can take this week",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_071",
+      "title": "When Trust Building gets hard",
+      "topic": "trust building",
+      "cluster": "relating",
+      "description": "An honest look at trust building \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_072",
+      "title": "Why your Trust Building is holding you back",
+      "topic": "trust building",
+      "cluster": "relating",
+      "description": "The fundamentals of trust building explained simply with examples drawn from everyday office scenarios",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_073",
+      "title": "Mastering Trust Building in the workplace",
+      "topic": "trust building",
+      "cluster": "relating",
+      "description": "A deep dive into the research behind trust building and three concrete techniques to put it into practice",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_074",
+      "title": "When Psychological Safety gets hard",
+      "topic": "psychological safety",
+      "cluster": "relating",
+      "description": "A step-by-step framework for strengthening psychological safety in your daily work without adding to your plate",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_075",
+      "title": "What Psychological Safety really looks like",
+      "topic": "psychological safety",
+      "cluster": "relating",
+      "description": "A self-assessment and guided reflection on where your psychological safety is today and how to move it forward",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_076",
+      "title": "The Psychological Safety habit",
+      "topic": "psychological safety",
+      "cluster": "relating",
+      "description": "Real stories from professionals who transformed their relationship with psychological safety and what they learned",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_077",
+      "title": "Leading with Collaboration",
+      "topic": "collaboration",
+      "cluster": "relating",
+      "description": "How collaboration shows up at work and why developing it changes the way you operate day to day",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_078",
+      "title": "Collaboration for busy professionals",
+      "topic": "collaboration",
+      "cluster": "relating",
+      "description": "A deep dive into the research behind collaboration and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_079",
+      "title": "How leaders use Collaboration",
+      "topic": "collaboration",
+      "cluster": "relating",
+      "description": "A step-by-step framework for strengthening collaboration in your daily work without adding to your plate",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_080",
+      "title": "Leading with Communication",
+      "topic": "communication",
+      "cluster": "relating",
+      "description": "A deep dive into the research behind communication and three concrete techniques to put it into practice",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_081",
+      "title": "How to build Communication at work",
+      "topic": "communication",
+      "cluster": "relating",
+      "description": "How high-performing teams and individuals use communication differently \u2014 and what you can borrow from them",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_082",
+      "title": "How leaders use Difficult Conversations",
+      "topic": "difficult conversations",
+      "cluster": "relating",
+      "description": "Real stories from professionals who transformed their relationship with difficult conversations and what they learned",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_083",
+      "title": "Everyday Difficult Conversations \u2014 a practice",
+      "topic": "difficult conversations",
+      "cluster": "relating",
+      "description": "Common mistakes people make with difficult conversations and the mindset shifts that lead to lasting change",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_084",
+      "title": "Difficult Conversations \u2014 a field guide",
+      "topic": "difficult conversations",
+      "cluster": "relating",
+      "description": "An honest look at difficult conversations \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_085",
+      "title": "Unlocking Negotiation",
+      "topic": "negotiation",
+      "cluster": "relating",
+      "description": "An honest look at negotiation \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_086",
+      "title": "Breaking through with Negotiation",
+      "topic": "negotiation",
+      "cluster": "relating",
+      "description": "A step-by-step framework for strengthening negotiation in your daily work without adding to your plate",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_087",
+      "title": "How to use Negotiation every day",
+      "topic": "negotiation",
+      "cluster": "relating",
+      "description": "A deep dive into the research behind negotiation and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_088",
+      "title": "How to build Networking at work",
+      "topic": "networking",
+      "cluster": "relating",
+      "description": "How networking shows up at work and why developing it changes the way you operate day to day",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_089",
+      "title": "Why Networking matters more than you think",
+      "topic": "networking",
+      "cluster": "relating",
+      "description": "Understanding networking at a deeper level so you can coach others through it as well as yourself",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_090",
+      "title": "Small steps to better Rapport Building",
+      "topic": "rapport building",
+      "cluster": "relating",
+      "description": "A deep dive into the research behind rapport building and three concrete techniques to put it into practice",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_091",
+      "title": "The truth about Rapport Building",
+      "topic": "rapport building",
+      "cluster": "relating",
+      "description": "The relationship between rapport building and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_092",
+      "title": "Everyday Coaching \u2014 a practice",
+      "topic": "coaching",
+      "cluster": "leading",
+      "description": "Real stories from professionals who transformed their relationship with coaching and what they learned",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_093",
+      "title": "Building Coaching from scratch",
+      "topic": "coaching",
+      "cluster": "leading",
+      "description": "The neuroscience behind coaching explained in plain language with immediate practical takeaways",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_094",
+      "title": "The hidden side of Delegation",
+      "topic": "delegation",
+      "cluster": "leading",
+      "description": "A deep dive into the research behind delegation and three concrete techniques to put it into practice",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_095",
+      "title": "The Delegation reset",
+      "topic": "delegation",
+      "cluster": "leading",
+      "description": "A deep dive into the research behind delegation and three concrete techniques to put it into practice",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_096",
+      "title": "How to use Vision Setting every day",
+      "topic": "vision setting",
+      "cluster": "leading",
+      "description": "A deep dive into the research behind vision setting and three concrete techniques to put it into practice",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_097",
+      "title": "The hidden side of Vision Setting",
+      "topic": "vision setting",
+      "cluster": "leading",
+      "description": "A practical exploration of vision setting in corporate environments with actionable steps you can take this week",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_098",
+      "title": "Unlocking Culture Building",
+      "topic": "culture building",
+      "cluster": "leading",
+      "description": "The relationship between culture building and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_099",
+      "title": "Culture Building for busy professionals",
+      "topic": "culture building",
+      "cluster": "leading",
+      "description": "Understanding culture building at a deeper level so you can coach others through it as well as yourself",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_100",
+      "title": "Everyday Change Management \u2014 a practice",
+      "topic": "change management",
+      "cluster": "leading",
+      "description": "Real stories from professionals who transformed their relationship with change management and what they learned",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_101",
+      "title": "How to use Change Management every day",
+      "topic": "change management",
+      "cluster": "leading",
+      "description": "Understanding change management at a deeper level so you can coach others through it as well as yourself",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_102",
+      "title": "Strategic Leadership under pressure",
+      "topic": "strategic leadership",
+      "cluster": "leading",
+      "description": "The neuroscience behind strategic leadership explained in plain language with immediate practical takeaways",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_103",
+      "title": "The Strategic Leadership reset",
+      "topic": "strategic leadership",
+      "cluster": "leading",
+      "description": "How strategic leadership shows up at work and why developing it changes the way you operate day to day",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_104",
+      "title": "Beyond the basics of Strategic Leadership",
+      "topic": "strategic leadership",
+      "cluster": "leading",
+      "description": "An honest look at strategic leadership \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_105",
+      "title": "The truth about Team Motivation",
+      "topic": "team motivation",
+      "cluster": "leading",
+      "description": "How high-performing teams and individuals use team motivation differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_106",
+      "title": "How leaders use Team Motivation",
+      "topic": "team motivation",
+      "cluster": "leading",
+      "description": "The neuroscience behind team motivation explained in plain language with immediate practical takeaways",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_107",
+      "title": "Leading with Team Motivation",
+      "topic": "team motivation",
+      "cluster": "leading",
+      "description": "A self-assessment and guided reflection on where your team motivation is today and how to move it forward",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_108",
+      "title": "Why your Developing Others is holding you back",
+      "topic": "developing others",
+      "cluster": "leading",
+      "description": "A structured approach to developing developing others as a skill rather than treating it as a fixed personality trait",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_109",
+      "title": "The truth about Developing Others",
+      "topic": "developing others",
+      "cluster": "leading",
+      "description": "A structured approach to developing developing others as a skill rather than treating it as a fixed personality trait",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_110",
+      "title": "Everyday Leading Through Uncertainty \u2014 a practice",
+      "topic": "leading through uncertainty",
+      "cluster": "leading",
+      "description": "Understanding leading through uncertainty at a deeper level so you can coach others through it as well as yourself",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_111",
+      "title": "Using Leading Through Uncertainty to grow faster",
+      "topic": "leading through uncertainty",
+      "cluster": "leading",
+      "description": "An honest look at leading through uncertainty \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_112",
+      "title": "Mastering Leading Through Uncertainty in the workplace",
+      "topic": "leading through uncertainty",
+      "cluster": "leading",
+      "description": "How high-performing teams and individuals use leading through uncertainty differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_113",
+      "title": "The science of Inclusive Leadership",
+      "topic": "inclusive leadership",
+      "cluster": "leading",
+      "description": "A structured approach to developing inclusive leadership as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_114",
+      "title": "How leaders use Inclusive Leadership",
+      "topic": "inclusive leadership",
+      "cluster": "leading",
+      "description": "A self-assessment and guided reflection on where your inclusive leadership is today and how to move it forward",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_115",
+      "title": "Servant Leadership for busy professionals",
+      "topic": "servant leadership",
+      "cluster": "leading",
+      "description": "An honest look at servant leadership \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_116",
+      "title": "Servant Leadership in 5 minutes a day",
+      "topic": "servant leadership",
+      "cluster": "leading",
+      "description": "A self-assessment and guided reflection on where your servant leadership is today and how to move it forward",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_117",
+      "title": "What Accountability really looks like",
+      "topic": "accountability",
+      "cluster": "leading",
+      "description": "Common mistakes people make with accountability and the mindset shifts that lead to lasting change",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_118",
+      "title": "Accountability \u2014 a field guide",
+      "topic": "accountability",
+      "cluster": "leading",
+      "description": "A step-by-step framework for strengthening accountability in your daily work without adding to your plate",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_119",
+      "title": "A practical guide to Accountability",
+      "topic": "accountability",
+      "cluster": "leading",
+      "description": "An honest look at accountability \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_120",
+      "title": "Everyday Decision Making Under Pressure \u2014 a practice",
+      "topic": "decision making under pressure",
+      "cluster": "leading",
+      "description": "An honest look at decision making under pressure \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_121",
+      "title": "Decision Making Under Pressure \u2014 what no one tells you",
+      "topic": "decision making under pressure",
+      "cluster": "leading",
+      "description": "A practical exploration of decision making under pressure in corporate environments with actionable steps you can take this week",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_122",
+      "title": "How leaders use Managing Up",
+      "topic": "managing up",
+      "cluster": "leading",
+      "description": "Understanding managing up at a deeper level so you can coach others through it as well as yourself",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_123",
+      "title": "Small steps to better Managing Up",
+      "topic": "managing up",
+      "cluster": "leading",
+      "description": "The relationship between managing up and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_124",
+      "title": "Why your Managing Up is holding you back",
+      "topic": "managing up",
+      "cluster": "leading",
+      "description": "A structured approach to developing managing up as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_125",
+      "title": "Stakeholder Management \u2014 what no one tells you",
+      "topic": "stakeholder management",
+      "cluster": "leading",
+      "description": "Common mistakes people make with stakeholder management and the mindset shifts that lead to lasting change",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_126",
+      "title": "Building Stakeholder Management from scratch",
+      "topic": "stakeholder management",
+      "cluster": "leading",
+      "description": "A structured approach to developing stakeholder management as a skill rather than treating it as a fixed personality trait",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_127",
+      "title": "Why Executive Presence matters more than you think",
+      "topic": "executive presence",
+      "cluster": "leading",
+      "description": "The neuroscience behind executive presence explained in plain language with immediate practical takeaways",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_128",
+      "title": "What Executive Presence really looks like",
+      "topic": "executive presence",
+      "cluster": "leading",
+      "description": "A deep dive into the research behind executive presence and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_129",
+      "title": "Building Executive Presence from scratch",
+      "topic": "executive presence",
+      "cluster": "leading",
+      "description": "The relationship between executive presence and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_130",
+      "title": "Leading with Focus",
+      "topic": "focus",
+      "cluster": "performing",
+      "description": "A deep dive into the research behind focus and three concrete techniques to put it into practice",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_131",
+      "title": "How to use Focus every day",
+      "topic": "focus",
+      "cluster": "performing",
+      "description": "A step-by-step framework for strengthening focus in your daily work without adding to your plate",
+      "format": "audio",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_132",
+      "title": "Building Focus from scratch",
+      "topic": "focus",
+      "cluster": "performing",
+      "description": "A step-by-step framework for strengthening focus in your daily work without adding to your plate",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_133",
+      "title": "What Deep Work really looks like",
+      "topic": "deep work",
+      "cluster": "performing",
+      "description": "How deep work shows up at work and why developing it changes the way you operate day to day",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_134",
+      "title": "How to use Deep Work every day",
+      "topic": "deep work",
+      "cluster": "performing",
+      "description": "The fundamentals of deep work explained simply with examples drawn from everyday office scenarios",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_135",
+      "title": "A practical guide to Deep Work",
+      "topic": "deep work",
+      "cluster": "performing",
+      "description": "A deep dive into the research behind deep work and three concrete techniques to put it into practice",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_136",
+      "title": "Why your Habits is holding you back",
+      "topic": "habits",
+      "cluster": "performing",
+      "description": "A deep dive into the research behind habits and three concrete techniques to put it into practice",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_137",
+      "title": "Small steps to better Habits",
+      "topic": "habits",
+      "cluster": "performing",
+      "description": "A structured approach to developing habits as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_138",
+      "title": "What Habits really looks like",
+      "topic": "habits",
+      "cluster": "performing",
+      "description": "A structured approach to developing habits as a skill rather than treating it as a fixed personality trait",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_139",
+      "title": "Mastering Motivation in the workplace",
+      "topic": "motivation",
+      "cluster": "performing",
+      "description": "The relationship between motivation and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_140",
+      "title": "Motivation \u2014 a field guide",
+      "topic": "motivation",
+      "cluster": "performing",
+      "description": "A practical exploration of motivation in corporate environments with actionable steps you can take this week",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_141",
+      "title": "Building Motivation from scratch",
+      "topic": "motivation",
+      "cluster": "performing",
+      "description": "A structured approach to developing motivation as a skill rather than treating it as a fixed personality trait",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_142",
+      "title": "Rethinking Burnout Prevention",
+      "topic": "burnout prevention",
+      "cluster": "performing",
+      "description": "An honest look at burnout prevention \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_143",
+      "title": "The Burnout Prevention reset",
+      "topic": "burnout prevention",
+      "cluster": "performing",
+      "description": "A structured approach to developing burnout prevention as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_144",
+      "title": "Everyday Burnout Prevention \u2014 a practice",
+      "topic": "burnout prevention",
+      "cluster": "performing",
+      "description": "A step-by-step framework for strengthening burnout prevention in your daily work without adding to your plate",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_145",
+      "title": "When Energy Management gets hard",
+      "topic": "energy management",
+      "cluster": "performing",
+      "description": "A deep dive into the research behind energy management and three concrete techniques to put it into practice",
+      "format": "doc",
+      "duration": "30min"
+    },
+    {
+      "content_id": "con_146",
+      "title": "Beyond the basics of Energy Management",
+      "topic": "energy management",
+      "cluster": "performing",
+      "description": "A self-assessment and guided reflection on where your energy management is today and how to move it forward",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_147",
+      "title": "Energy Management under pressure",
+      "topic": "energy management",
+      "cluster": "performing",
+      "description": "A structured approach to developing energy management as a skill rather than treating it as a fixed personality trait",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_148",
+      "title": "Why Time Management matters more than you think",
+      "topic": "time management",
+      "cluster": "performing",
+      "description": "An honest look at time management \u2014 what it actually requires and how to build it over time without burning out",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_149",
+      "title": "The science of Time Management",
+      "topic": "time management",
+      "cluster": "performing",
+      "description": "How to apply time management when it feels most difficult \u2014 under deadlines, in conflict, and when stakes are high",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_150",
+      "title": "How to use Productivity every day",
+      "topic": "productivity",
+      "cluster": "performing",
+      "description": "A step-by-step framework for strengthening productivity in your daily work without adding to your plate",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_151",
+      "title": "Unlocking Productivity",
+      "topic": "productivity",
+      "cluster": "performing",
+      "description": "How productivity shows up at work and why developing it changes the way you operate day to day",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_152",
+      "title": "The Productivity advantage",
+      "topic": "productivity",
+      "cluster": "performing",
+      "description": "The neuroscience behind productivity explained in plain language with immediate practical takeaways",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_153",
+      "title": "Goal Setting under pressure",
+      "topic": "goal setting",
+      "cluster": "performing",
+      "description": "How goal setting shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_154",
+      "title": "Rethinking Goal Setting",
+      "topic": "goal setting",
+      "cluster": "performing",
+      "description": "Real stories from professionals who transformed their relationship with goal setting and what they learned",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_155",
+      "title": "Growth Mindset \u2014 what no one tells you",
+      "topic": "growth mindset",
+      "cluster": "performing",
+      "description": "How to apply growth mindset when it feels most difficult \u2014 under deadlines, in conflict, and when stakes are high",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_156",
+      "title": "What Growth Mindset really looks like",
+      "topic": "growth mindset",
+      "cluster": "performing",
+      "description": "How high-performing teams and individuals use growth mindset differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_157",
+      "title": "How leaders use Learning Agility",
+      "topic": "learning agility",
+      "cluster": "performing",
+      "description": "A self-assessment and guided reflection on where your learning agility is today and how to move it forward",
+      "format": "doc",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_158",
+      "title": "Learning Agility for busy professionals",
+      "topic": "learning agility",
+      "cluster": "performing",
+      "description": "How learning agility shows up at work and why developing it changes the way you operate day to day",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_159",
+      "title": "Mastering Remote Work in the workplace",
+      "topic": "remote work",
+      "cluster": "performing",
+      "description": "How high-performing teams and individuals use remote work differently \u2014 and what you can borrow from them",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_160",
+      "title": "Beyond the basics of Remote Work",
+      "topic": "remote work",
+      "cluster": "performing",
+      "description": "How high-performing teams and individuals use remote work differently \u2014 and what you can borrow from them",
+      "format": "audio",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_161",
+      "title": "Why your Remote Work is holding you back",
+      "topic": "remote work",
+      "cluster": "performing",
+      "description": "A step-by-step framework for strengthening remote work in your daily work without adding to your plate",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_162",
+      "title": "Work-Life Balance in 5 minutes a day",
+      "topic": "work-life balance",
+      "cluster": "performing",
+      "description": "A self-assessment and guided reflection on where your work-life balance is today and how to move it forward",
+      "format": "doc",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_163",
+      "title": "The Work-Life Balance habit",
+      "topic": "work-life balance",
+      "cluster": "performing",
+      "description": "A structured approach to developing work-life balance as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_164",
+      "title": "The Perfectionism reset",
+      "topic": "perfectionism",
+      "cluster": "performing",
+      "description": "Understanding perfectionism at a deeper level so you can coach others through it as well as yourself",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_165",
+      "title": "How to build Perfectionism at work",
+      "topic": "perfectionism",
+      "cluster": "performing",
+      "description": "A structured approach to developing perfectionism as a skill rather than treating it as a fixed personality trait",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_166",
+      "title": "Leading with Perfectionism",
+      "topic": "perfectionism",
+      "cluster": "performing",
+      "description": "Understanding perfectionism at a deeper level so you can coach others through it as well as yourself",
+      "format": "exercise",
+      "duration": "1min"
+    },
+    {
+      "content_id": "con_167",
+      "title": "Getting better at Procrastination",
+      "topic": "procrastination",
+      "cluster": "performing",
+      "description": "How high-performing teams and individuals use procrastination differently \u2014 and what you can borrow from them",
+      "format": "video",
+      "duration": "10min"
+    },
+    {
+      "content_id": "con_168",
+      "title": "Procrastination in 5 minutes a day",
+      "topic": "procrastination",
+      "cluster": "performing",
+      "description": "The relationship between procrastination and long-term career satisfaction \u2014 and how to use that insight now",
+      "format": "exercise",
+      "duration": "5min"
+    },
+    {
+      "content_id": "con_169",
+      "title": "Small steps to better Procrastination",
+      "topic": "procrastination",
+      "cluster": "performing",
+      "description": "Understanding procrastination at a deeper level so you can coach others through it as well as yourself",
+      "format": "video",
+      "duration": "5min"
+    }
+  ]
+}
